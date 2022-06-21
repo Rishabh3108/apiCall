@@ -1,4 +1,4 @@
-import 'package:api/ui/dashboard/home/home_controller.dart';
+import 'package:api/view_model/home_viewmodel.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

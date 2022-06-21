@@ -1,4 +1,4 @@
-import 'package:api/ui/dashboard/dashbord_screen.dart';
+import 'package:api/view/dashboard/dashbord_screen.dart';
 import 'package:api/utils/locator.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

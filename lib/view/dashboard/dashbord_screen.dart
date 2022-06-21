@@ -1,4 +1,4 @@
-import 'package:api/ui/dashboard/dashbord_controler.dart';
+import 'package:api/view_model/dashbord_viewmodel.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
